@@ -92,7 +92,7 @@ with st.container():
     else:
         st.balloons()
         st.markdown("### Yessss 😭💖")
-        st.success("Ok alors c'est officiel : **ma Valentine**.")
+        st.success("it's fixed : **my Valentine**.")
         st.write("")
 
         st.markdown("#### 📅 Le plan")
@@ -103,7 +103,7 @@ with st.container():
 - **Programme :** dîner + moment chill ensemble 🕯️
 """)
 
-        st.markdown("#### 🎁 Ton message secret")
+        st.markdown("#### 🎁 My secret message to Ryma")
         st.info("After 2 years, it's finally the day we meet. it was so complicated to find you Among 4 billion women on Earth 💞")
 
         st.markdown("---")
