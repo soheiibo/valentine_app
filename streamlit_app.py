@@ -36,7 +36,7 @@ with st.container():
     st.markdown('<div class="card">', unsafe_allow_html=True)
 
     if not accepted:
-        st.markdown("### Will you be my Valentine? 🥺👉👈")
+        st.markdown("### Madame, Will you be my Valentine? ")
         st.write("")
 
         col1, col2, col3 = st.columns([1, 1, 1])
