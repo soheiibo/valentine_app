@@ -91,7 +91,7 @@ with st.container():
 
     else:
         st.balloons()
-        st.markdown("### Yessss 😭💖")
+        st.markdown("### Yes 💖")
         st.success("it's fixed : **my Valentine**.")
         st.write("")
 
